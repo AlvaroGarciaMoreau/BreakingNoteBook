@@ -1,2 +1,0 @@
-# BreakingNoteBook
-Breaking NoteBook
